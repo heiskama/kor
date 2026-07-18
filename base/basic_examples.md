@@ -3,7 +3,6 @@
 Dictionary form
 
 ```
-Action verbs:
 학생이 학교에 가다.
 친구가 집에 오다.
 나는 물을 마시다.
@@ -19,7 +18,6 @@ Action verbs:
 나는 영화를 좋아하다.
 나는 커피를 마시지 않다.
 
-More action verbs:
 나는 버스를 기다리다.
 수업이 끝나다.
 나는 친구를 돕다.
@@ -44,10 +42,8 @@ More action verbs:
 나는 책을 사다.
 가게가 과일을 팔다.
 
-Copula:
 나는 학생이다.
 
-Descriptive verbs:
 나는 학생이 아니다.
 책상 위에 책이 있다.
 냉장고에 우유가 없다.
@@ -61,7 +57,6 @@ Descriptive verbs:
 나는 한국에 가고 싶다.
 나는 늦지 않다.
 
-More descriptive verbs:
 지금이 괜찮다.
 이 책이 다르다.
 이 음식이 맛없다.
@@ -238,4 +233,3 @@ Formal form
 오늘은 피곤합니다.
 일이 힘듭니다.
 ```
-
