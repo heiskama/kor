@@ -7,6 +7,7 @@
 
 - [Topik I grammar part 1](topik1/part1.md)
 - [Topik I grammar part 2](topik1/part2.md)
+- [Topik I grammar part 3](topik1/part3.md)
 
 # Links
 
